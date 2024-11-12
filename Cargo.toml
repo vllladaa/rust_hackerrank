@@ -2,6 +2,6 @@
 name = "rust_hackerrank"
 version = "0.1.0"
 edition = "2021"
-default-run = "breaking_the_records"
+default-run = "subarray_division"
 
 [dependencies]

@@ -2,6 +2,6 @@
 name = "rust_hackerrank"
 version = "0.1.0"
 edition = "2021"
-default-run = "sock_merchant"
+default-run = "drawing_book"
 
 [dependencies]
